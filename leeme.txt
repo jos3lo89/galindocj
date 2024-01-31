@@ -1,0 +1,21 @@
+*****DATOS DEL ALUMNO*****
+
+NOMBRES: Jose Luis Galindo Cardenas
+CODIGO: 1007220181
+
+*****URL DEL HOSTING*****
+
+ URL: https://joselo21.000webhostapp.com/
+
+
+*****USUARIO ADMINISTRADOR*****
+
+USUARIO: galindocj
+CLAVE: galindocj
+
+*****USUARIO REVISOR*****
+
+USUARIO: revisor
+CLAVE: revisor123
+
+
